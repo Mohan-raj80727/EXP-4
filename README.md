@@ -19,7 +19,7 @@ Interest on borrowed funds is calculated dynamically based on utilization rate.
 
 Implement Overcollateralization If a borrower’s collateral value drops below a certain liquidation threshold, their collateral is liquidated to repay the debt.
 
-### Step 3: 
+### Step 3:  
 
 Allow Liquidation If collateral < liquidation threshold, liquidators can repay the borrower's debt and claim their collateral at a discount.
 
